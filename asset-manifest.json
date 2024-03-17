@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.4b763604.css",
+    "main.js": "/website/static/js/main.7247c04d.js",
+    "static/media/bokeh.mp4": "/website/static/media/bokeh.e6de5b1f1fa1ae5bee8a.mp4",
+    "static/media/CityLights.jpg": "/website/static/media/CityLights.b9d2f20c210a3cbe1d37.jpg",
+    "static/media/Resume_Vanz_Lorenzo.pdf": "/website/static/media/Resume_Vanz_Lorenzo.74b0aaef7430ed35b86c.pdf",
+    "static/media/blob-scene-haikei.svg": "/website/static/media/blob-scene-haikei.f7f0fcb0071fd83eb85477c06549682c.svg",
+    "index.html": "/website/index.html",
+    "main.4b763604.css.map": "/website/static/css/main.4b763604.css.map",
+    "main.7247c04d.js.map": "/website/static/js/main.7247c04d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b763604.css",
+    "static/js/main.7247c04d.js"
+  ]
+}
